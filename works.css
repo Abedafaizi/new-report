@@ -3,7 +3,7 @@
     margin: 1;
     box-sizing: border-box;
 }nav{
-    width: 100%;
+    width: 90%;
     height: 15vh;
     background-color: #4588f7;  
     position:fixed; 
